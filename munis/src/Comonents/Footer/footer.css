@@ -1,0 +1,48 @@
+.footer {
+    width: 1110px;
+    height: 400px;
+    margin-left: 100px;
+    font-family: 'Montserrat';
+    display: flex;
+    gap: 70px;
+}
+.frtitle {
+    display: flex;
+    gap: 35px;
+}
+.frtext {
+    display: flex;
+    gap: 25px;
+}
+.footerleft {
+    margin-top: 40px;
+}
+.frgrid1{
+    width: 101px;
+    height: 52px;
+    border: 2px solid  #E3ECF5;
+    border-radius: 13px;
+}
+.frgrid1 img {
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.frgrids {
+    display: grid ;
+    grid-template-columns:101px 101px 101px 101px;
+    gap: 15px;
+}
+.frgrid2 {
+    text-align: center;
+    width: 216px;
+    height: 52px;
+    border: 2px solid  #E3ECF5;
+    border-radius: 13px;
+}
+.frbutton button {
+    margin-top: -20px;
+    font-size: 14px;
+    padding: 10px 25px;
+    border-radius: 28px;
+    border: none;
+}

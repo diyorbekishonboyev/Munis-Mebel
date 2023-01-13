@@ -1,0 +1,35 @@
+.firstmain {
+    height: 300px;
+    width: 1000px;
+    margin-left: 90px;
+    margin-top: -270px;
+    font-family: 'Montserrat';
+}
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+.card {
+    width: 250px;
+    height: 99px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.06);
+    border-radius: 12px;  
+    gap: 20px;  
+   
+}
+.firstmain h1 {
+    font-size: 24px;
+    margin-left: 70px;
+}
+.img img {
+    width: 60px;
+    height: 60px;
+}
+.text {
+    font-size: 10px;
+}
